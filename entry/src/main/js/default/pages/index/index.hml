@@ -1,6 +1,6 @@
-<element name='neubutton' src='../../../../../../node_modules/neumorphism/button/button.hml'></element>
-<element name='neubuttons' src='../../../../../../node_modules/neumorphism/buttons/buttons.hml'></element>
-<element name='neutheme' src='../../../../../../node_modules/neumorphism/theme/theme.hml'></element>
+<element name='neutheme' src='../../../../../../node_modules/hmos-neumorphism/theme/theme.hml'></element>
+<element name='neubutton' src='../../../../../../node_modules/hmos-neumorphism/button/button.hml'></element>
+<element name='neubuttons' src='../../../../../../node_modules/hmos-neumorphism/buttons/buttons.hml'></element>
 
 <neutheme class="container" theme="" color="">
     <text class='title'>

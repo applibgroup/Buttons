@@ -2,16 +2,9 @@
 
 # Installation :
 
-1. Copy the neumorph_buttons folder in your repo.
-2. Add neumorphism as a dependency in your package.json file.
+Install using npm
 
-```json
-{
-  "dependencies": {
-    "neumorphism": "file:../neumorph_buttons"
-  }
-}
-```
+```npm i hmos-neumorphism ```
 
 # Note :
 
@@ -32,7 +25,7 @@ button, input{
 
 Import:
 ```html
-<element name='neubutton' src='../../../../../../node_modules/neumorphism/button/button.hml'></element>
+<element name='neubutton' src='../../../../../../node_modules/hmos-neumorphism/button/button.hml'></element>
 ```
 
 Usage:
@@ -48,7 +41,7 @@ Usage:
 
 Import:
 ```html
-<element name='neubuttons' src='../../../../../../node_modules/neumorphism/buttons/buttons.hml'></element>
+<element name='neubuttons' src='../../../../../../node_modules/hmos-neumorphism/buttons/buttons.hml'></element>
 ```
 
 Usage:
